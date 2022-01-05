@@ -12,8 +12,6 @@ class MdpTest(unittest.TestCase):
     def test2_checkPwd(self):
         self.assertEqual('foo'.upper(), 'FOO')
 
-    def test3_checkPwd(self):
-        s = '
 
 
 if __name__ == '__main__':
